@@ -1,2 +1,2 @@
 # etsy_api
-etsy api to automatically upload pods
+Main Goal is to get the Etsy API to be able to make automatic uploads from midjourney -> phohtoshop -> etsy listing
